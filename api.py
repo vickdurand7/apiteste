@@ -10,10 +10,10 @@ SEU_ID = 7575436926
 
 # Configuração do banco de dados MySQL
 db_config = {
-    "host": "localhost",
-    "user": "root",
-    "password": "@Driano123ramos",
-    "database": "acessos_db"
+    "host": "sql210.infinityfree.com",
+    "user": "if0_38751056",
+    "password": "6MVZQhHqYzol",
+    "database": "if0_38751056_acessos_db"
 }
 
 # Função para criar a tabela de usuários se não existir
